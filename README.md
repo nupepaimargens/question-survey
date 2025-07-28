@@ -11,7 +11,6 @@ Este material pode ser reutilizado e adaptado por outras iniciativas, desde que 
 > 📌 **Coordenador do projeto:** Allan da Rosa  
 > 📌 **Instituições envolvidas:**  
 > - USP (LAPS/FFLCH)  
-> - UFRGS (NAVISUAL)  
 > - ICNOVA – Universidade Nova de Lisboa  
 > - Entre outras.
 
@@ -28,7 +27,6 @@ Este material puede ser reutilizado y adaptado por otras iniciativas, siempre qu
 > 📌 **Coordinador del proyecto:** Allan da Rosa  
 > 📌 **Instituciones involucradas:**  
 > - USP (LAPS/FFLCH)  
-> - UFRGS (NAVISUAL)  
 > - ICNOVA – Universidade Nova de Lisboa  
 > - Entre otras.
 
@@ -45,6 +43,5 @@ These materials may be reused and adapted by other initiatives, provided the ori
 > 📌 **Project Coordinator:** Allan da Rosa  
 > 📌 **Partner institutions:**  
 > - USP (LAPS/FFLCH)  
-> - UFRGS (NAVISUAL)  
 > - ICNOVA – NOVA University Lisbon  
 > - Among others.
